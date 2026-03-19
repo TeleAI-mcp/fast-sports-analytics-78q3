@@ -1,2 +1,3 @@
-# fast-sports-analytics-78q3
+# Fast Sports Analytics 78Q3
+
 A sports data analytics platform for modern development workflows.
